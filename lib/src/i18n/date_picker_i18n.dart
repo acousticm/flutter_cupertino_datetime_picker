@@ -126,6 +126,9 @@ enum DateTimePickerLocale {
   /// Dutch (NL)
   nl,
 
+  /// Thai (Thailand)
+  th_th,
+
   /// Khmer (Cambodia)
   km_kh,
 }
@@ -159,6 +162,7 @@ const Map<DateTimePickerLocale, _StringsI18n> datePickerI18n = {
   DateTimePickerLocale.sr_cyrl: const _StringsSrCyrillic(),
   DateTimePickerLocale.sr_latn: const _StringsSrLatin(),
   DateTimePickerLocale.nl: const _StringsNl(),
+  DateTimePickerLocale.th_th: const _StringsTh(),
   DateTimePickerLocale.km_kh: const _StringsKmKh(),
 };
 

@@ -1,8 +1,8 @@
 part of 'date_picker_i18n.dart';
 
 /// Thai (TH) Thailand
-class _StringsEnTh extends _StringsI18n {
-  const _StringsEnTh();
+class _StringsTh extends _StringsI18n {
+  const _StringsTh();
 
   @override
   String getCancelText() {
